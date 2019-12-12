@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30001">
+        <setting label="30011" type="text" id="url" default=""/>
+        <setting label="30012" type="text" id="username" default=""/>
+        <setting label="30013" type="text" id="password" option="hidden" default=""/>
+        <setting label="30014" type="bool" id="verify_ssl" default="true"/>
+    </category>
+</settings>
